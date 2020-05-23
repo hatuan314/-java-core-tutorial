@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dba0ae3f-eff8-4609-8037-531303ebc45d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyStringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStringBufferMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStringBuilderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyStringBufferMain">
+    <configuration name="MyStringBufferMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStringBufferMain" />
+      <module name="class-string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyStringMain" />
       <module name="class-string" />
@@ -64,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyStringBufferMain" />
         <item itemvalue="Application.MyStringMain" />
       </list>
     </recent_temporary>
@@ -101,21 +115,21 @@
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state x="128" y="23" key="#Project_Structure/0.23.1280.723@0.23.1280.723" timestamp="1590234424085" />
-    <state width="1238" height="368" key="GridCell.Tab.0.bottom" timestamp="1590237660386">
+    <state width="1238" height="325" key="GridCell.Tab.0.bottom" timestamp="1590239991443">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
-    <state width="1238" height="368" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1590237660386" />
-    <state width="1238" height="368" key="GridCell.Tab.0.center" timestamp="1590237660381">
+    <state width="1238" height="325" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1590239991443" />
+    <state width="1238" height="325" key="GridCell.Tab.0.center" timestamp="1590239991441">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
-    <state width="1238" height="368" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1590237660381" />
-    <state width="1238" height="368" key="GridCell.Tab.0.left" timestamp="1590237660380">
+    <state width="1238" height="325" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1590239991441" />
+    <state width="1238" height="325" key="GridCell.Tab.0.left" timestamp="1590239991440">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
-    <state width="1238" height="368" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1590237660380" />
-    <state width="1238" height="368" key="GridCell.Tab.0.right" timestamp="1590237660382">
+    <state width="1238" height="325" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1590239991440" />
+    <state width="1238" height="325" key="GridCell.Tab.0.right" timestamp="1590239991442">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
-    <state width="1238" height="368" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1590237660382" />
+    <state width="1238" height="325" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1590239991442" />
   </component>
 </project>
